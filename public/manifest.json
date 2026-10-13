@@ -1,0 +1,25 @@
+{
+  "name": "Omni AI Tool",
+  "short_name": "Omni AI",
+  "description": "Professional digital hub & directory indexing 550+ verified AI tools across 15 domains with discipline filtering.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090d1a",
+  "theme_color": "#090d1a",
+  "categories": ["utilities", "productivity", "business", "developer"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
